@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Prahadeeswaran
 
 🎓 BE CSE Graduate (2025)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Engineer;MERN+Stack+Developer;Open+to+Work&center=true&width=500&height=45">
+</p>
+
 💻 Java | Spring Boot | MERN Stack Developer
 📍 Chennai, India
 
@@ -54,26 +58,8 @@
 
 ---
 
-## 📌 Featured Projects
+![Visitors](https://komarev.com/ghpvc/?username=Prahadeeswara\&color=blue\&style=for-the-badge)
 
-### 🛒 E-Commerce API (Spring Boot)
-
-* Product CRUD operations
-* Image upload & retrieval
-* Search functionality
-* REST API architecture
-
-### 🧠 AI-Powered LMS
-
-* Adaptive learning platform
-* AI interview system
-* MERN Stack
-
-### 🛍 5GenMart
-
-* Full stack e-commerce app
-* Razorpay integration
-* Authentication system
 
 ---
 
