@@ -4,8 +4,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Engineer;MERN+Stack+Developer;Open+to+Work&center=true&width=500&height=45">
 </p>
+## ⚒️ Technologies I Use
 
-💻 Java | Spring Boot | MERN Stack Developer
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,react,html,css,tailwind,spring,mysql,mongodb,nodejs,git&theme=light" />
+</p>
+## 🛠 Tech I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,tailwind,js,nodejs,mysql,mongodb,git,github&perline=6" />
+</p>
+
 📍 Chennai, India
 
 ---
