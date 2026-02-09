@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 Hi, I'm Prahadeeswaran
 
-<!--
-**Prahadeeswara/Prahadeeswara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE CSE Graduate (2025)
+💻 Java | Spring Boot | MERN Stack Developer
+📍 Chennai, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔭 Building Full Stack Applications
+* 🌱 Learning Advanced Spring Boot & Microservices
+* 💡 Interested in Backend Development & System Design
+* 🎯 Goal: Become a Software Engineer
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+
+* Java
+* JavaScript
+* SQL
+
+### ⚙ Backend
+
+* Spring Boot
+* Spring Data JPA
+* Hibernate
+* REST APIs
+
+### 🌐 Frontend
+
+* React.js
+* HTML, CSS, Bootstrap
+
+### 🗄 Database
+
+* MySQL
+* MongoDB
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 E-Commerce API (Spring Boot)
+
+* Product CRUD operations
+* Image upload & retrieval
+* Search functionality
+* REST API architecture
+
+### 🧠 AI-Powered LMS
+
+* Adaptive learning platform
+* AI interview system
+* MERN Stack
+
+### 🛍 5GenMart
+
+* Full stack e-commerce app
+* Razorpay integration
+* Authentication system
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prahadeeswara\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [https://www.linkedin.com/in/prahadeeswaran](https://www.linkedin.com/in/prahadeeswaran)
